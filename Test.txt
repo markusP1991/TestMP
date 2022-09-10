@@ -1,5 +1,11 @@
 TestData
 
+<<<<<<< HEAD
 hier gibt es neue Daten
 
 nochmal neue Daten
+=======
+Erneuter Versuch von Lenovo für neue Daten
+
+neue Daten
+>>>>>>> FeatureBranchLenovo
