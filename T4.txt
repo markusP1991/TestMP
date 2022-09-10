@@ -5,4 +5,10 @@ D4
 neue Daten
 =======
 Featurebranchdaten
+<<<<<<< HEAD
+>>>>>>> FeatureBranchLenovo
+=======
+
+
+Featurebranch
 >>>>>>> FeatureBranchLenovo
